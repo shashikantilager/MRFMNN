@@ -10,8 +10,6 @@ Fuzzy Min-Max Neural Network (FMNN) is a pattern classification algorithm which 
 4. Experiometns and performnace evaluation on the MapReduce cluster (please refer the paper below)
 
 
-## References
+## Citation
 1. Shashikant Ilager,  Prasad, P. S. V. S, [Scalable MapReduce-based Fuzzy Min-Max Neural Network for Pattern Classification. In Proceedings of the 18th ACM  International Conference on Distributed Computing and Networking (ICDCN 2017)]( https://dl.acm.org/citation.cfm?id=3007776) , Hyderabad, India, January 2017.
-2.  J. Ekanayake, H. Li, B. Zhang, T. Gunarathne, S.-H.Bae, J. Qiu, and G. C. Fox. Twister:  a runtime foriterative mapreduce. In S. Hariri and K. Keahey,editors,HPDC, pages 810–818. ACM, 2010.
-3. P. K. Simpson. Fuzzy min-max neural networks classification. IEEE Trans. Neural Networks,3(5):776–786, 1992.
 
